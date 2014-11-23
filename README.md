@@ -3,10 +3,16 @@ Student Web Design Resources
 
 A mega list of resources for students new to web design.
 
+**Along with this list, I highly recommend looking at [Dan Edwards' list of resources](https://medium.com/@de/resources-799d16952a56).**
+
+## Learn HTML & CSS
+
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+
 ## Interactive tutorials
 
-- [Code Academy: JavaScript](http://www.codecademy.com/en/tracks/javascript)
-- [Code Academy: jQuery](http://www.codecademy.com/en/tracks/jquery)
+- [Code Academy](http://www.codecademy.com)
+- [Code Avengers](http://www.codeavengers.com/)
 - [Try jQuery](http://try.jquery.com/)
 
 ## Recommended blogs
@@ -30,10 +36,8 @@ A mega list of resources for students new to web design.
 - [The Big Web Show](http://5by5.tv/bigwebshow)
 - [Responsive Web Design](http://responsivewebdesign.com/podcast/)
 
-## Design resources & inspiration
+## Design resources
 
-- [Niice](https://niice.co/)
-- [dribbble](https://dribbble.com/)
 - [Resources](https://medium.com/@de/resources-799d16952a56) by Dan Edwards (this list is *epic*)
 - [Free Design Resources](https://medium.com/@ingojoseph/free-design-resources-187bb30cc762)
 - [Subtle Patterns](http://subtlepatterns.com/)
@@ -42,6 +46,13 @@ A mega list of resources for students new to web design.
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Flat UI Color Picker](http://www.flatuicolorpicker.com/)
+
+## Design Inspiration
+
+- [Site Inspire](http://www.siteinspire.com/)
+- [awwwards.com](http://www.awwwards.com/)
+- [Niice](https://niice.co/)
+- [dribbble](https://dribbble.com/)
 
 ## User Experience resources
 
@@ -55,11 +66,3 @@ A mega list of resources for students new to web design.
 - [WebPlatform.org](http://www.webplatform.org/)
 - [Code Guide by @mdo](http://codeguide.co/)
 - [The Magic of CSS](http://adamschwartz.co/magic-of-css/)
-
-## Git and Github
-- Git and GitHub
-    - [Official GitHub Help](https://help.github.com/)
-    - [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
-- GitHub Pages
-    - [Official site](http://pages.github.com/)
-    - [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
