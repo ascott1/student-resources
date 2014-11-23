@@ -1,7 +1,7 @@
 Student Web Design Resources
 =================
 
-A list of resources for students new to web design.
+An overwhelmingly large list of resources for students new to web design.
 
 **Along with this list, I highly recommend looking at [Dan Edwards' list of resources](https://medium.com/@de/resources-799d16952a56).**
 
@@ -38,7 +38,7 @@ A list of resources for students new to web design.
 
 ## Design resources
 
-- [Resources](https://medium.com/@de/resources-799d16952a56) by Dan Edwards (this list is *epic*)
+- [Resources by Dan Edwards](https://medium.com/@de/resources-799d16952a56)
 - [Free Design Resources](https://medium.com/@ingojoseph/free-design-resources-187bb30cc762)
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [The Noun Project](http://thenounproject.com/)
@@ -66,3 +66,8 @@ A list of resources for students new to web design.
 - [WebPlatform.org](http://www.webplatform.org/)
 - [Code Guide by @mdo](http://codeguide.co/)
 - [The Magic of CSS](http://adamschwartz.co/magic-of-css/)
+
+## Color
+
+- [Kuler](https://color.adobe.com/)
+- [Colour Lovers](http://www.colourlovers.com/)
