@@ -1,7 +1,7 @@
 Student Web Design Resources
 =================
 
-A mega list of resources for students new to web design.
+A list of resources for students new to web design.
 
 **Along with this list, I highly recommend looking at [Dan Edwards' list of resources](https://medium.com/@de/resources-799d16952a56).**
 
